@@ -27,4 +27,6 @@ The dataset comprises several medical predictors, including:
 
 ## Repository Structure
 
-- `diabetes.csv`: The dataset used for analysis and model training.
+- `data/`: contains dataset used for analysis and model training
+- `models/`: saved models
+- `project/`: Jupyter notebooks used in project
